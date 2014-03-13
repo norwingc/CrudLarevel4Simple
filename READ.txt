@@ -1,0 +1,4 @@
+composer require way/generators --dev 
+version 1.1
+
+'Way\Generators\GeneratorsServiceProvider'
